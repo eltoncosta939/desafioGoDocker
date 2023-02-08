@@ -1,4 +1,4 @@
-# Projeto prático: Otimização de uma imagem golang
+# Projeto prático: Desafio Golang Docker
 
 ## :eye_speech_bubble: Descrição do projeto 
 
